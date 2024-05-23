@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**shiridharKhatri/shiridharKhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of experience. My work involves both frontend and backend technologies, including:
 
-Here are some ideas to get you started:
+- **Frontend**: HTML, CSS, JavaScript, NextJS, ReactJS
+- **Backend**: NodeJS, MongoDB
+- **Cloud Services**: AWS Cloud, AWS Amplify
+- **Others**: WordPress, GoDaddy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build exciting user interfaces with strong backend solutions for web applications.
+
+## Skills
+- **Frontend Development**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+- **Backend Development**: ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+- **Cloud Services**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
+- **Others**: ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![GoDaddy](https://img.shields.io/badge/GoDaddy-1B1A1F?style=flat&logo=godaddy&logoColor=white)
+
+## Projects
+- **[Project One](https://github.com/shiridhar-khatri/project-one)**: A brief description of Project One.
+- **[Project Two](https://github.com/shiridhar-khatri/project-two)**: A brief description of Project Two.
+
+## Contact Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiridharkhatri/)
+- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01241e90d934b26b94)
+- [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://shiridhar.com.np)
+
+Thanks for visiting my profile!

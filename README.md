@@ -13,10 +13,10 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 I build exciting user interfaces with strong backend solutions for web applications.
 
 ## Skills
-- **Frontend Development**: ![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind)
-- **Backend Development**: ![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)
-- **Cloud Services**: ![My Skills](https://skillicons.dev/icons?i=aws,cloudflare)
-- **Others**: ![My Skills](https://skillicons.dev/icons?i=wordpress,github,git)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)
+![My Skills](https://skillicons.dev/icons?i=aws,cloudflare)
+![My Skills](https://skillicons.dev/icons?i=wordpress,github,git)
 
 ## Projects
 - [**AllyIntegra**](https://www.allyintegra.com/): A comprehensive platform designed for integrating various ally services.

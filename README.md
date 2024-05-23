@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-
+![Animation](https://media.giphy.com/media/ZbTi2DvXuFI9S6aGTo/giphy.gif)
 ## About Me
 Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of experience. My work involves both frontend and backend technologies, including:
 

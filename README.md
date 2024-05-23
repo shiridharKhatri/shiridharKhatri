@@ -17,8 +17,10 @@ I build exciting user interfaces with strong backend solutions for web applicati
 - **Others**: ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![GoDaddy](https://img.shields.io/badge/GoDaddy-1B1A1F?style=flat&logo=godaddy&logoColor=white)
 
 ## Projects
-- **[Project One](https://github.com/shiridhar-khatri/project-one)**: A brief description of Project One.
-- **[Project Two](https://github.com/shiridhar-khatri/project-two)**: A brief description of Project Two.
+- [**AllyIntegra**](https://www.allyintegra.com/): A comprehensive platform designed for integrating various ally services.
+- [**VisBug**](https://visbug.com/): A visual debugging tool for web developers to enhance productivity.
+- [**Devesh Laungani**](https://deveshlaungani.com/): A personal portfolio website showcasing the work of Devesh Laungani.
+- [**NeoCaliste**](https://neocaliste.com/): A modern calendaring and scheduling application.
 
 ## Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiridharkhatri/)

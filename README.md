@@ -9,12 +9,12 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 - **Others**: WordPress, GoDaddy
 
 I build exciting user interfaces with strong backend solutions for web applications.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Skills
-- **Frontend Development**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-- **Backend Development**: ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-- **Cloud Services**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
-- **Others**: ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![GoDaddy](https://img.shields.io/badge/GoDaddy-1B1A1F?style=flat&logo=godaddy&logoColor=white)
+- **Frontend Development**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind)]
+- **Backend Development**: [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)]
+- **Cloud Services**: [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare)]
+- **Others**: [![My Skills](https://skillicons.dev/icons?i=wordpress,github,git)]
 
 ## Projects
 - [**AllyIntegra**](https://www.allyintegra.com/): A comprehensive platform designed for integrating various ally services.

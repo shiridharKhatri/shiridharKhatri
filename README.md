@@ -10,13 +10,12 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 - **Cloud Services**: AWS Cloud, AWS Amplify
 - **Others**: WordPress, GoDaddy
 
-I build exciting user interfaces with strong backend solutions for web applications.
-
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)
 ![My Skills](https://skillicons.dev/icons?i=aws,cloudflare)
 ![My Skills](https://skillicons.dev/icons?i=wordpress,github,git)
+![My Skills](https://skillicons.dev/icons?i=java,python)
 
 ## Projects
 - [**AllyIntegra**](https://www.allyintegra.com/): A comprehensive platform designed for integrating various ally services.

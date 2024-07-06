@@ -13,9 +13,10 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)
+![My Skills](https://skillicons.dev/icons?i=java,python)
 ![My Skills](https://skillicons.dev/icons?i=aws,cloudflare)
 ![My Skills](https://skillicons.dev/icons?i=wordpress,github,git)
-![My Skills](https://skillicons.dev/icons?i=java,python)
+
 
 ## Projects
 - [**AllyIntegra**](https://www.allyintegra.com/): A comprehensive platform designed for integrating various ally services.

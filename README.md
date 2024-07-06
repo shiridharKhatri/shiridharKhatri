@@ -11,11 +11,7 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 - **Others**: WordPress, GoDaddy
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind)
-![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)
-![My Skills](https://skillicons.dev/icons?i=java,python)
-![My Skills](https://skillicons.dev/icons?i=aws,cloudflare)
-![My Skills](https://skillicons.dev/icons?i=wordpress,github,git)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind,nodejs,mongodb,java,python,aws,cloudflare,wordpress,github,git)
 
 
 ## Projects

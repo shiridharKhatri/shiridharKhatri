@@ -6,7 +6,7 @@
 Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of experience. My work involves both frontend and backend technologies, including:
 
 - **Frontend**: HTML, CSS, JavaScript, NextJS, ReactJS
-- **Backend**: NodeJS, MongoDB, Pythin, Java
+- **Backend**: NodeJS, MongoDB, Python, Java
 - **Cloud Services**: AWS Cloud, AWS Amplify
 - **Others**: WordPress, GoDaddy
 

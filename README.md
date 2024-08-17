@@ -19,6 +19,7 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 - [**VisBug**](https://visbug.com/): A visual debugging tool for web developers to enhance productivity.
 - [**Devesh Laungani**](https://deveshlaungani.com/): A personal portfolio website showcasing the work of Devesh Laungani.
 - [**NeoCaliste**](https://neocaliste.com/): A modern calendaring and scheduling application.
+- etc...
 
 ## Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiridharkhatri/)

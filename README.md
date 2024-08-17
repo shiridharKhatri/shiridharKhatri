@@ -11,8 +11,8 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 - **Others**: WordPress, GoDaddy
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind,nodejs,mongodb,java,python,aws,cloudflare,wordpress,github,git)
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,bootstrap,tailwind,nodej)
+![My Skills](https://skillicons.dev/icons?i=mongodb,java,python,aws,cloudflare,wordpress,github,git)
 
 ## Projects
 - [**AllyIntegra**](https://www.allyintegra.com/): A comprehensive platform designed for integrating various ally services.

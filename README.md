@@ -25,6 +25,8 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 - [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01241e90d934b26b94)
 - [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://shiridhar.com.np)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharKhatri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 Thanks for visiting my profile!
 
 

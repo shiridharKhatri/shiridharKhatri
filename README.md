@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
   
-<img style="display:"flex";justify-content:"center";aligh-items:"center";" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" width="300">
+<img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" width="300">
   
 Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of experience. My work involves both frontend and backend technologies, including:
 

@@ -30,8 +30,6 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 
 Thanks for visiting my profile!
 
-
----
 [![](https://visitcount.itsvg.in/api?id=shiridharKhatri&icon=0&color=0)]
 
   ## 💰 You can help me by Donating

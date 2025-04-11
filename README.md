@@ -33,4 +33,4 @@ Thanks for visiting my profile!
 ## Just Listen
 [![🎵 Listen to my favorite track](https://img.shields.io/badge/Spotify-🎵%20Listen%20to%20my%20favorite%20track-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv?si=809c1cac7c084727)
 
-[![](https://visitcount.itsvg.in/api?id=shiridharKhatri&icon=0&color=0)]
+[!(https://visitcount.itsvg.in/api?id=shiridharKhatri&icon=0&color=0)]

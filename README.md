@@ -31,5 +31,5 @@ Hi, I'm **Shiridhar Khatri**, a competent full-stack developer with 2 years of e
 Thanks for visiting my profile!
 
 ## Just Listen
-[![🎵 Listen to my favorite track](https://img.shields.io/badge/Spotify-🎵%20Listen%20to%20my%20favorite%20track-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv?si=809c1cac7c084727](https://open.spotify.com/track/2nIIzTU3OnqnuhqKfoxigL?si=1216713864af4f6e))
+[![🎵 Listen to my favorite track](https://img.shields.io/badge/Spotify-🎵%20Listen%20to%20my%20favorite%20track-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv?si=809c1cac7c084727)
 

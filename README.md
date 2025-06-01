@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a full-stack developer with over **2 years of experience** building modern websites and web apps. From sleek user interfaces to scalable backends, I enjoy solving real-world problems with clean and maintainable code.
+I’m a full-stack developer with over **3 years of experience** building modern websites and web apps. From sleek user interfaces to scalable backends, I enjoy solving real-world problems with clean and maintainable code.
 
 Currently focused on delivering high-performance applications using:
 

@@ -69,7 +69,7 @@ Currently focused on delivering high-performance applications using:
 
 Whether you’re building something or need a developer who gets things done — feel free to reach out.
 
-📫 shiridhar.khatri99@gmail.com  
+📫 shiridharkhatri2@gmail.com  
 🌐 [shiridhar.com.np](https://shiridhar.com.np)
 
 ---

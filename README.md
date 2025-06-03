@@ -3,7 +3,7 @@
   🚀 Full Stack Developer | 🌍 Based in Pokhara, Nepal<br>
   Building fast, responsive, and SEO-friendly web apps.
 </p>
-.
+
 <p align="center">
   <a href="https://shiridhar.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />

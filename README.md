@@ -57,11 +57,6 @@ Currently focused on delivering high-performance applications using:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharKhatri&layout=compact&theme=react&hide_border=true" />
 </p>
 
----
-
-### 🎧 Now Playing
-
-[![🎵 Listen to my favorite track](https://img.shields.io/badge/Spotify-🎧%20Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv?si=809c1cac7c084727)
 
 ---
 

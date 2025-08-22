@@ -53,8 +53,8 @@ Currently focused on delivering high-performance applications using:
 ### 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shiridharKhatri&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharKhatri&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiridharKhatri&show_icons=true&theme=react&hide_border=true" height="100" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharKhatri&layout=compact&theme=react&hide_border=true" height="100" width="100" />
 </p>
 
 

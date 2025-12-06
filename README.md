@@ -51,7 +51,7 @@ I mostly work with:
 | [**AllyIntegra**](https://www.allyintegra.com/) | Service integration platform for businesses. |
 | [**VisBug**](https://visbug.com/) | Visual debugging tool for front-end developers. |
 | [**APIXX**](https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx) | VS Code extension for testing REST APIs inside your editor. |
-| [**Motive Momentum**](https://motivemomentumco.com/) | Modern fitness and coaching website. |
+| [**Motive Momentum**](https://motivemomentumco.com/) | Modern journal ecommerce website. |
 | [**More Projects**](https://shiridhar.com.np/#projects) | Explore the rest of my work. |
 
 ---

@@ -33,8 +33,13 @@ I mostly work with:
 
 ### 🛠️ My Toolbox
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,aws,git,github,cloudflare,java,python" />
+</p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,aws,git,github,cloudflare,python,java,hostinger,godaddy" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black" />
 </p>
 
 ---

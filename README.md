@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shiridhar Khatri 👋</h1>
 <p align="center">
   🚀 Full Stack Developer | 🌍 Based in Pokhara, Nepal<br>
-  Building fast, responsive, and SEO-friendly web apps.
+  Building fast and responsive web applications.
 </p>
 
 <p align="center">
@@ -20,20 +20,21 @@
 
 ### 🧑‍💻 About Me
 
-I’m a full-stack developer with over **3 years of experience** building modern websites and web apps. From sleek user interfaces to scalable backends, I enjoy solving real-world problems with clean and maintainable code.
+I’m a full-stack developer with **over 3 years of experience** building modern and scalable web applications. I work across the full development cycle, from UI to backend to deployments, with a focus on clean code and smooth performance.
 
-Currently focused on delivering high-performance applications using:
+I mostly work with:
 
-- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB
-- **Cloud & DevOps**: AWS (Amplify, EC2), GitHub Actions, GoDaddy, Cloudflare
+- **Frontend**: React.js, Next.js, Typescript, JavaScript, HTML, CSS, Tailwind CSS  
+- **Backend**: Node.js, Express, MongoDB  
+- **Cloud & Hosting**: AWS (Amplify, EC2), Hostinger, GoDaddy, Cloudflare  
+- **Automation & Deployment**: GitHub Actions, CI/CD  
 
 ---
 
 ### 🛠️ My Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,aws,git,github,cloudflare,wordpress,java,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,aws,git,github,cloudflare,python,java,hostinger,godaddy" />
 </p>
 
 ---
@@ -43,31 +44,21 @@ Currently focused on delivering high-performance applications using:
 | Project | Description |
 |--------|-------------|
 | [**AllyIntegra**](https://www.allyintegra.com/) | Service integration platform for businesses. |
-| [**VisBug**](https://visbug.com/) | Visual debugging tool for front-end devs. |
-| [**APIXX**](https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx) | VS Code extension to test REST APIs quickly inside your editor. |
-| [**Devesh Laungani**](https://deveshlaungani.com/) | Personal portfolio for a professional client. |
-| [**More Projects**](https://shiridhar.com.np/#projects) | Check out my full portfolio. |
-
----
-
-### 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shiridharKhatri&show_icons=true&theme=react&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharKhatri&layout=compact&theme=react&hide_border=true" />
-</p>
-
+| [**VisBug**](https://visbug.com/) | Visual debugging tool for front-end developers. |
+| [**APIXX**](https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx) | VS Code extension for testing REST APIs inside your editor. |
+| [**Motive Momentum**](https://motivemomentumco.com/) | Modern fitness and coaching website. |
+| [**More Projects**](https://shiridhar.com.np/#projects) | Explore the rest of my work. |
 
 ---
 
 ### 🙌 Let’s Connect
 
-Whether you’re building something or need a developer who gets things done — feel free to reach out.
+If you’re working on something new or need help with development, feel free to reach out.
 
 📫 shiridharkhatri2@gmail.com  
-📫 contact@shiridhar.com.np
+📫 contact@shiridhar.com.np  
 🌐 [shiridhar.com.np](https://shiridhar.com.np)
 
 ---
 
-⭐ _Thanks for stopping by!_
+⭐ _Thanks for visiting!_

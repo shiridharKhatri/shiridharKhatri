@@ -236,15 +236,6 @@ VS Code extensions, browser extensions, automation tools and utilities that impr
 
 I enjoy building and experimenting with open-source projects, developer tools, browser extensions, and practical utilities.
 
-### Featured Work
-
-| Project | What it does |
-|---|---|
-| **ApiX** | REST API testing directly inside VS Code |
-| **Lycoris AI Image Queue** | Chrome extension for managing and generating image prompt queues |
-| **Chattify** | Real-time social discovery, chat, and video communication platform |
-| **FunTyping** | Interactive typing platform with games, analytics, and real-time battles |
-
 
 # Currently Building
 
@@ -292,14 +283,6 @@ Monitoring & Optimization
 ```
 
 I enjoy owning the complete process rather than working on only one layer of a product.
-
----
-
-# GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiridharkhatri&hide_border=true" />
-</p>
 
 ---
 

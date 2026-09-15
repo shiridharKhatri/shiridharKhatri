@@ -232,21 +232,19 @@ VS Code extensions, browser extensions, automation tools and utilities that impr
 
 ---
 
-# Open Source
+## Open Source & GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiridharkhatri&show_icons=true&hide_border=true&count_private=true" />
-</p>
+I enjoy building and experimenting with open-source projects, developer tools, browser extensions, and practical utilities.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiridharkhatri&hide_border=true" />
-</p>
+### Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharkhatri&layout=compact&hide_border=true" />
-</p>
+| Project | What it does |
+|---|---|
+| **ApiX** | REST API testing directly inside VS Code |
+| **Lycoris AI Image Queue** | Chrome extension for managing and generating image prompt queues |
+| **Chattify** | Real-time social discovery, chat, and video communication platform |
+| **FunTyping** | Interactive typing platform with games, analytics, and real-time battles |
 
----
 
 # Currently Building
 

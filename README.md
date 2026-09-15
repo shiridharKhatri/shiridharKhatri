@@ -193,8 +193,7 @@ Built for developers who want a simple API workflow without constantly switching
 | [**Fishtail HRMS**](https://fishtailhrms.com)                                   | Workforce management system covering HR, attendance, payroll, recruitment and team management.                        |
 | [**DailyWorkReport**](https://dailyworkreport.com)                              | Productivity and daily reporting platform.                                                                            |
 | [**Ally Integra**](https://www.allyintegra.com)                                 | Business and service integration platform.                                                                            |
-| [**ApiX**](https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx) | API testing and response utility extension for VS Code.                                                               |
-| **TokSave**                                                                     | Android media downloader application for saving supported social media content.                                       |
+| [**ApiX**](https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx) | API testing and response utility extension for VS Code.                                             
 
 ---
 

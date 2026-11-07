@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="Git Koi" />
+ <img src="koi/koi.gif" width="350" alt="Git Koi" />
 </p>
 
 ---

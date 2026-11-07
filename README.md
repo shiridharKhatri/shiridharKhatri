@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiridharkhatri&style=flat-square&color=111111" alt="Profile views" />
+  <img src="koi/koi.gif" width="256" alt="Git Koi" />
 </p>
 
 ---

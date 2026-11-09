@@ -263,8 +263,15 @@ My approach is to understand the entire system, build with maintainability in mi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shiridharKhatri/shiridharKhatri/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<h2 align="center">GitHub Contributions</h2>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/shiridharKhatri/shiridharKhatri/output/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub contribution snake animation"
+  />
+</p>
 <br/>
 
 [![Repositories](https://img.shields.io/badge/Explore%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiridharKhatri?tab=repositories)

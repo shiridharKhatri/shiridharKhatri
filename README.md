@@ -1,21 +1,17 @@
-<!--
-  Shiridhar Khatri — GitHub Profile README
-  Design: Minimal, monochrome, professional
--->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=190&section=header&text=Shiridhar%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=16&descAlignY=60&descColor=aaaaaa" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=SHIRIDHAR%20KHATRI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=15&descAlignY=58&descColor=9ca3af" width="100%" />
+### Building digital products. Engineering meaningful experiences.
 
-### Building digital products that solve real problems.
-
-Full-Stack Developer · Product Engineer · UI/UX Enthusiast
-
-[Portfolio](https://www.shiridhar.com.np) · [LinkedIn](https://www.linkedin.com/in/shiridharkhatri/) · [Upwork](https://www.upwork.com/freelancers/~01241e90d934b26b94)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shiridhar.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiridharKhatri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiridharkhatri/)
+[![Upwork](https://img.shields.io/badge/Upwork-161b22?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01241e90d934b26b94)
 
 <br/>
 
-<img src="koi/koi.gif" width="300" alt="Git Koi animation" />
+<img src="koi/koi.gif" width="320" alt="Git Koi animation" />
 
 </div>
 
@@ -25,20 +21,24 @@ Full-Stack Developer · Product Engineer · UI/UX Enthusiast
 
 I'm **Shiridhar Khatri**, a Full-Stack Developer and independent product builder based in Nepal.
 
-I enjoy taking ideas from concept to production — designing interfaces, engineering backend systems, implementing real-time communication, and managing deployment and infrastructure.
+I build production-ready digital products, from initial concepts and interface design to backend architecture, real-time systems, deployment and optimization.
 
-My focus is on building software that is:
+I enjoy working across the entire development lifecycle and turning complex ideas into applications that are fast, reliable and enjoyable to use.
 
-- **Functional** — solving actual problems with practical engineering.
-- **Fast** — optimized for performance and responsiveness.
-- **Thoughtful** — designed with attention to usability and detail.
-- **Scalable** — engineered with maintainability and reliability in mind.
+**Areas I work in:**
 
-I enjoy working across the entire product lifecycle rather than limiting myself to a single layer of development.
+- Full-Stack Product Development
+- Real-Time Applications & Communication
+- Backend Engineering & API Development
+- UI/UX Engineering
+- Performance & Technical SEO
+- Cloud Infrastructure & DevOps
+- Developer Tools & Automation
+- AI-powered Applications
 
 ---
 
-## What I Do
+## What I Build
 
 <table>
 <tr>
@@ -46,22 +46,22 @@ I enjoy working across the entire product lifecycle rather than limiting myself 
 
 ### Product Engineering
 
-- Full-Stack Development
-- Product Architecture
-- Real-Time Applications
-- REST APIs & Backend Systems
-- Database Design
+- Web Applications
+- SaaS Products
+- Real-Time Platforms
+- Social Applications
+- Developer Utilities
 
 </td>
 <td width="50%" valign="top">
 
-### Design & Infrastructure
+### Technical Engineering
 
-- UI/UX Engineering
-- Performance Optimization
-- Technical SEO
-- Cloud & VPS Deployment
-- Developer Tools & Automation
+- Backend Architecture
+- API Development
+- Database Systems
+- WebRTC & Socket.IO
+- Infrastructure & Deployment
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ I enjoy working across the entire product lifecycle rather than limiting myself 
 
 ## Tech Stack
 
-**Frontend**
+**Frontend Development**
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer" />
@@ -83,7 +83,7 @@ I enjoy working across the entire product lifecycle rather than limiting myself 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python,java" />
 </p>
 
-**Infrastructure & Development Tools**
+**Infrastructure & Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,cloudflare,git,github,vscode,docker" />
@@ -99,45 +99,43 @@ I enjoy working across the entire product lifecycle rather than limiting myself 
 
 ## Featured Projects
 
-### 01 — Chattify
+### 01. Chattify
 
 **Real-Time Social Discovery Platform**
 
-<a href="https://www.chattify.chat">
-<img src="https://img.shields.io/badge/VISIT%20PROJECT-ffffff?style=flat-square&logo=googlechrome&logoColor=111111" />
-</a>
+[![Website](https://img.shields.io/badge/Visit%20Website-ffffff?style=flat-square&logo=googlechrome&logoColor=111111)](https://www.chattify.chat)
 
-Chattify is a social discovery platform designed to help people connect through real-time conversations, random matching, messaging, and community interactions.
+Chattify is a social discovery platform that helps people meet and communicate through real-time conversations, random matching, messaging and community interactions.
 
-**Key Features**
+**Features**
 
 - Random video and text chat
-- Real-time matchmaking
+- Real-time user matchmaking
 - Audio and video communication
-- Anonymous confessions and Q&A
+- Anonymous confessions
+- Anonymous Q&A and question decks
 - Stories and community interactions
-- Media sharing and voice messaging
+- Voice messaging and media sharing
 - AI-assisted safety moderation
-- Block, report, and age verification systems
+- Block and report systems
+- Age verification
 - Android application
 
-**Engineering Focus**
+**Engineering**
 
-`WebRTC` `Socket.IO` `Real-Time Systems` `Media Processing` `Matchmaking` `Security` `Performance`
+`Next.js` `Node.js` `MongoDB` `Socket.IO` `WebRTC` `Real-Time Systems` `Media Processing`
 
 ---
 
-### 02 — FunTyping
+### 02. FunTyping
 
 **Arcade Typing & Competitive Gaming Platform**
 
-<a href="https://funnytyping.com">
-<img src="https://img.shields.io/badge/VISIT%20PROJECT-ffffff?style=flat-square&logo=googlechrome&logoColor=111111" />
-</a>
+[![Website](https://img.shields.io/badge/Visit%20Website-ffffff?style=flat-square&logo=googlechrome&logoColor=111111)](https://funnytyping.com)
 
-A cinematic typing platform that transforms traditional typing practice into an interactive arcade experience.
+A cinematic typing platform designed to transform traditional typing practice into an interactive arcade experience.
 
-**Key Features**
+**Features**
 
 - Arcade typing modes: Rain, Meteor, Dino & Architect
 - Real-time 1v1 typing battles
@@ -145,8 +143,9 @@ A cinematic typing platform that transforms traditional typing practice into an 
 - Keystroke heatmaps
 - Typing consistency tracking
 - Community themes
-- Multi-language support
+- Multi-language typing
 - Programming language typing practice
+- Animated interactive interfaces
 
 **Technology**
 
@@ -154,17 +153,15 @@ A cinematic typing platform that transforms traditional typing practice into an 
 
 ---
 
-### 03 — ApiX
+### 03. ApiX
 
 **API Testing Extension for Visual Studio Code**
 
-<a href="https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx">
-<img src="https://img.shields.io/badge/VS%20CODE%20MARKETPLACE-ffffff?style=flat-square&logo=visualstudiocode&logoColor=111111" />
-</a>
+[![Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-ffffff?style=flat-square&logo=visualstudiocode&logoColor=111111)](https://marketplace.visualstudio.com/items?itemName=shiridhar.apixx)
 
-A lightweight API testing utility built directly into VS Code, allowing developers to test endpoints without switching applications.
+A lightweight API testing extension built directly into VS Code, designed to simplify API development without constantly switching applications.
 
-**Key Features**
+**Features**
 
 - REST API requests
 - GET, POST, PUT and DELETE methods
@@ -179,7 +176,7 @@ A lightweight API testing utility built directly into VS Code, allowing develope
 
 | Project | Description |
 |:--|:--|
-| [AAI Wander](https://aaiwander.com) | Travel and exploration platform focused on modern UX and SEO. |
+| [AAI Wander](https://aaiwander.com) | Travel and exploration platform with modern UX and SEO. |
 | [Motive & Momentum](https://motivemomentumco.com) | E-commerce and productivity journal platform. |
 | [Fishtail HRMS](https://fishtailhrms.com) | HR, attendance, payroll and workforce management. |
 | [DailyWorkReport](https://dailyworkreport.com) | Productivity and daily reporting platform. |
@@ -195,11 +192,11 @@ A lightweight API testing utility built directly into VS Code, allowing develope
 
 **Real-Time Systems**
 
-WebRTC, Socket.IO, live communication, matchmaking and synchronized interactions.
+WebRTC, Socket.IO, matchmaking, live communication and synchronized interactions.
 
-**Modern Frontends**
+**Frontend Engineering**
 
-React, Next.js, TypeScript, animations and interactive interfaces.
+React, Next.js, TypeScript, animation systems and interactive interfaces.
 
 **Backend Engineering**
 
@@ -212,21 +209,21 @@ Rendering optimization, caching, asset optimization and fast page loads.
 </td>
 <td width="50%" valign="top">
 
-**Search Engine Optimization**
+**Technical SEO**
 
-Technical SEO, structured data, indexing and content architecture.
+Structured data, indexing, metadata architecture and search optimization.
 
-**Infrastructure**
+**Infrastructure & DevOps**
 
-AWS, Cloudflare, Linux, VPS environments, Docker and deployment.
+Linux, AWS, Cloudflare, Docker, VPS management and deployment.
 
 **Developer Tools**
 
-VS Code extensions, browser extensions and workflow automation.
+VS Code extensions, browser extensions and automation.
 
 **AI Applications**
 
-AI-assisted experiences, local models and intelligent product features.
+Local AI models, intelligent applications and AI-assisted product experiences.
 
 </td>
 </tr>
@@ -246,31 +243,11 @@ AI-assisted experiences, local models and intelligent product features.
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiridharKhatri&show_icons=true&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&bg_color=0d1117&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiridharKhatri&layout=compact&hide_border=true&title_color=ffffff&text_color=9ca3af&bg_color=0d1117" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiridharKhatri&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=777777" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shiridharKhatri&bg_color=0d1117&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## Experience
 
 **Full-Stack Developer · 2023 — Present**
 
-Working across the complete software development lifecycle:
+I work across the complete product development lifecycle, combining product thinking, engineering, design and infrastructure.
 
 <div align="center">
 
@@ -278,30 +255,37 @@ Working across the complete software development lifecycle:
 
 </div>
 
-I enjoy owning products end-to-end, combining engineering, product thinking, design, and infrastructure to deliver production-ready applications.
+My approach is to understand the entire system, build with maintainability in mind and deliver products that are ready for real-world use.
+
+---
+
+## GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shiridharKhatri/shiridharKhatri/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+<br/>
+
+[![Repositories](https://img.shields.io/badge/Explore%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiridharKhatri?tab=repositories)
+[![Stars](https://img.shields.io/badge/My%20Stars-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiridharKhatri?tab=stars)
+
+</div>
 
 ---
 
 ## Let's Build Something
 
-Have an interesting idea, a product to develop, or a challenging engineering problem?
+Have an interesting idea, product, startup or challenging engineering problem?
 
-I'm always open to discussing interesting projects and opportunities.
+I'm always interested in connecting with people building interesting things.
 
 <div align="center">
 
-<a href="mailto:shiridharkhatri2@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=111111" />
-</a>
-<a href="https://www.shiridhar.com.np">
-<img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=googlechrome&logoColor=111111" />
-</a>
-<a href="https://www.linkedin.com/in/shiridharkhatri/">
-<img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=111111" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01241e90d934b26b94">
-<img src="https://img.shields.io/badge/UPWORK-ffffff?style=for-the-badge&logo=upwork&logoColor=111111" />
-</a>
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:shiridharkhatri2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://www.shiridhar.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=111111)](https://www.linkedin.com/in/shiridharkhatri/)
+[![Upwork](https://img.shields.io/badge/Upwork-ffffff?style=for-the-badge&logo=upwork&logoColor=111111)](https://www.upwork.com/freelancers/~01241e90d934b26b94)
 
 <br/><br/>
 
@@ -309,6 +293,6 @@ I'm always open to discussing interesting projects and opportunities.
 
 *Building things, breaking things, and shipping better things.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=110&section=footer" width="100%" />
 
 </div>

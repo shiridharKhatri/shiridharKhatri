@@ -1,7 +1,5 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=190&section=header&text=Shiridhar%20Khatri&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=16&descAlignY=60&descColor=aaaaaa" width="100%" />
-
 ### Building digital products. Engineering meaningful experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shiridhar.com.np)
@@ -299,7 +297,5 @@ I'm always interested in connecting with people building interesting things.
 **Thanks for visiting my profile.**
 
 *Building things, breaking things, and shipping better things.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=110&section=footer" width="100%" />
 
 </div>
